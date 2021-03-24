@@ -1,0 +1,14 @@
+PROJECT SCOPE STATEMENT
+1.	Ruang Lingkup
+Seu where merupakan aplikasi yang dibuat untuk keperluan publikasi game,aplikasi ini memungkinkan untuk mempertemukan antara pihak publisher dan dari pihak desainer game 
+sesuai perjajian yang telah disepakati sebelumnya.Nantinya aplikasi ini bisa diakses melalui laptop atau telepon genggam,dengan adanya aplikasi ini diharapkan adanya 
+sinergitas yang terjalin antara pihak publisher dan desainer game.
+2.	Deskripsi Fungsionalitas
+•	Multi-level login antara game desainer dan game publisher
+•	Membuat appointment
+•	Mendeskripsikan detai project untuk dihubungkan kedalam appointment
+•	Menampilkan ketersediaan waktu appointment
+•	Melakukan ekspor log kedalam format csv dan excel
+•	Review pada setiap project yang telah dilakukan appointment
+•	Reminder berupa push-notification sesuai dengan appointment yang telah ditentukan
+					
